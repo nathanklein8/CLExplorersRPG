@@ -22,7 +22,7 @@ def get_rand_damage_taken():
 
 def roll_dice(odds):
     """
-    returns true or false randomly with given odds.  the lower the odds parameter, the more likely it is to return true
+    returns true or false randomly with given odds.  the lower the odd parameter, the more likely it is to return true
     :param odds: int - will be a 1 out of odds chance of returning True
     :return: boolean
     """
